@@ -6,7 +6,7 @@ let package = Package(
     platforms: [.iOS(.v14)],
     products: [
         .library(
-            name: "SingleSignOnPlugin",
+            name: "TeamhiveCapacitorSingleSignon",
             targets: ["SingleSignOnPlugin"])
     ],
     dependencies: [
